@@ -3,6 +3,8 @@ Těpic... Tohle je addon pack zbraní do hry FiveM...
 Instalování je easy jako kokot.. V dalším souboru budete mít to, co hodíte do weapons.lua v ox_inventory. Potom už si to hodíte normálně do shopu třeba podle ->
 ono tohle sice vypadá divně napsaný ale když to někam dáte třeba do Visual Studia takto bude v pohodě... :D
 
+# Install: otevřete si weapons.lua, který máte v zip souboru, který jste si stáhli.. Skopírujete si celý kod a hodíte to do ox_inventory -> data -> weapons.lua, tam si  najdete poslední řádek zbraní (mělo by to končít WEAPON_TACTICALRIFLE... Poté stačí restart serveru a můžete si třeba givnout WEAPON_HK416
+
 // zbraně
 				{ name = 'WEAPON_AK47',            price = 5000, metadata = { registered = false } },
 				{ name = 'WEAPON_DE',              price = 5000, metadata = { registered = false } },
@@ -52,3 +54,4 @@ ono tohle sice vypadá divně napsaný ale když to někam dáte třeba do Visua
 			{ name = 'WEAPON_SLAUGHTERBFKNIFE',       price = 200 },
 			{ name = 'WEAPON_STAINEDRBFKNIFE',        price = 200 },
 			{ name = 'WEAPON_URBANRBFKNIFE',          price = 200 },
+
