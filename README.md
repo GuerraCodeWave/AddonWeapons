@@ -1,7 +1,7 @@
 Těpic... Tohle je addon pack zbraní do hry FiveM... 
 
 Instalování je easy jako kokot.. V dalším souboru budete mít to, co hodíte do weapons.lua v ox_inventory. Potom už si to hodíte normálně do shopu třeba podle ->
-
+ono tohle sice vypadá divně napsaný ale když to někam dáte třeba do Visual Studia takto bude v pohodě... :D
 
 // zbraně
 				{ name = 'WEAPON_AK47',            price = 5000, metadata = { registered = false } },
