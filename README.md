@@ -5,6 +5,8 @@ ono tohle sice vypadá divně napsaný ale když to někam dáte třeba do Visua
 
 # Install: otevřete si weapons.lua, který máte v zip souboru, který jste si stáhli.. Skopírujete si celý kod a hodíte to do ox_inventory -> data -> weapons.lua, tam si  najdete poslední řádek zbraní (mělo by to končít WEAPON_TACTICALRIFLE... Poté stačí restart serveru a můžete si třeba givnout WEAPON_HK416
 
+# Pokud potřebujete poradit tak mě kontaktujte na discordu: paradoxdev.
+
 // zbraně
 				{ name = 'WEAPON_AK47',            price = 5000, metadata = { registered = false } },
 				{ name = 'WEAPON_DE',              price = 5000, metadata = { registered = false } },
