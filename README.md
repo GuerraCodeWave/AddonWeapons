@@ -3,7 +3,7 @@ Těpic... Tohle je addon pack zbraní do hry FiveM...
 Instalování je easy jako kokot.. V dalším souboru budete mít to, co hodíte do weapons.lua v ox_inventory. Potom už si to hodíte normálně do shopu třeba podle ->
 
 
--- zbraně
+// zbraně
 				{ name = 'WEAPON_AK47',            price = 5000, metadata = { registered = false } },
 				{ name = 'WEAPON_DE',              price = 5000, metadata = { registered = false } },
 				{ name = 'WEAPON_FNX45',           price = 5000, metadata = { registered = false } },
@@ -34,7 +34,7 @@ Instalování je easy jako kokot.. V dalším souboru budete mít to, co hodíte
 				{ name = 'WEAPON_COLBATON',        price = 5000, metadata = { registered = false } },
 
 
--- nože
+// nože
       { name = 'WEAPON_PERFORATOR',             price = 200 },
 			{ name = 'WEAPON_BAYONETKNIFE',           price = 200 },
 			{ name = 'WEAPON_BLUEBFKNIFE',            price = 200 },
