@@ -1,3 +1,4 @@
+# Download je v releases
 Těpic... Tohle je addon pack zbraní do hry FiveM... 
 
 Instalování je easy jako kokot.. V dalším souboru budete mít to, co hodíte do weapons.lua v ox_inventory. Potom už si to hodíte normálně do shopu třeba podle ->
